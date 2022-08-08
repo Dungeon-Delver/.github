@@ -1,4 +1,4 @@
-#Dungeon Delver
+# Dungeon Delver
 A game I really enjoy playing is Dungeons and Dragons, but one of the main blocks to playing the game is finding other people to play it with since it takes at least 4 people (ideally 5-6). Thats how I got the idea for Dungeon Delver, to bridge that gap and allow people to focus on what really matters: playing the game!
 
 ## Features
