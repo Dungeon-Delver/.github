@@ -1,5 +1,8 @@
 # Dungeon Delver
-A game I really enjoy playing is Dungeons and Dragons, but one of the main blocks to playing the game is finding other people to play it with since it takes at least 4 people (ideally 5-6). Thats how I got the idea for Dungeon Delver, to bridge that gap and allow people to focus on what really matters: playing the game!
+I really enjoy playing the game Dungeons and Dragons, but one of the main blocks to playing the game is finding other people to play it with since it takes at least 4 people (ideally 5-6). Thats how I got the idea for Dungeon Delver, a website with the goal of bridging that gap and allowing people to focus on what really matters: playing the game!
+
+## Website Link:
+[Dungeon Delver](https://dungeon-delver.vercel.app/)
 
 ## Features
 Dungeon Delver allows for account creation using Facebook OAuth. The website features persistent sign-on using local storage. Once logged in, users can find parties or create a new one meeting their own specifications. The finding parties algorithm uses a party-ranking method to ensure that users see the parties that meet their specifications. Party searching has pagination and background thread prefetching to reduce wait times for the user. Alternatively, if users already know of a party, they can search for parties by party name. Once a party is found, users can request to join parties. Parties are fully customizable by the party's dungeon master, including Search Parameters that will change the search criteria for the party, status (private/public/closed), custom images, and custom party names.
