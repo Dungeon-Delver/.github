@@ -1,7 +1,7 @@
 # Dungeon Delver
 I really enjoy playing the game Dungeons and Dragons, but one of the main blocks to playing the game is finding other people to play it with since it takes at least 4 people (ideally 5-6). Thats how I got the idea for Dungeon Delver, a website with the goal of bridging that gap and allowing people to focus on what really matters: playing the game!
 
-## Website Link:
+## Website Link
 [Dungeon Delver](https://dungeon-delver.vercel.app/)
 
 ## Features
