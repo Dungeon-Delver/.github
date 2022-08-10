@@ -17,4 +17,4 @@ The website also has a live notification system. Notifications are triggered by 
 The frontend was built in react and the backend has a node/express server and a sockets API server for live notifications and chat. The backend connects to a database that uses Parse.
 
 ## Demo
-[Dungeon Delver Walkthrough](https://youtu.be/QD2NxzHnHac)
+[Dungeon Delver Walkthrough](https://youtu.be/I1tgPDAW3fs)
