@@ -14,7 +14,7 @@ All members of a party have access to party chat. Party chat (implemented with S
 The website also has a live notification system. Notifications are triggered by the following events: party join request, accept party join request, reject party join request, party leave and party deletion. Notifications are fully live and paginated.
 
 ## Specifications
-The frontend was built in react and the backend is a node/express server. The backend connects to a node/express server and also has a sockets API server for live notifications and chat.
+The frontend was built in react and the backend has a node/express server and a sockets API server for live notifications and chat. The backend connects to a database that uses Parse.
 
 ## Demo
 [Dungeon Delver Walkthrough](https://youtu.be/QD2NxzHnHac)
